@@ -1,0 +1,30 @@
+{
+  "id": "deepflow",
+  "name": "DeepFlow-HPC",
+  "category": "Python · Parallel computing",
+  "icon": "cpu",
+  "description": "GPU-accelerated fluid simulation with documented code, results, and presentation materials.",
+  "detail": "Built using Python, Ray, Numba JIT, and CUDA for parallel processing. Won the Deep-flow HPC competition at IIT Guwahati in February 2025.",
+  "stack": [
+    "Python",
+    "CUDA",
+    "Numba",
+    "Ray"
+  ],
+  "status": "Open source",
+  "award": "IIT Guwahati competition winner",
+  "url": "https://github.com/ashupsingh/DeepFlow-HPC",
+  "group": "Research & experiments",
+  "image": "/projects/deepflow.webp",
+  "liveUrl": "",
+  "featured": true,
+  "evidence": [],
+  "caseStudy": {
+    "problem": "Explore parallel computation for fluid simulation.",
+    "contribution": "Built a GPU-accelerated fluid simulation project; individual team responsibilities are not yet documented.",
+    "approach": "Python, Ray, Numba JIT and CUDA support parallel processing.",
+    "outcome": "Won the Deep-flow HPC competition at IIT Guwahati in February 2025. Code and supporting materials are in the repository.",
+    "limitations": "No verified speedup factor is stated here; hardware and baseline details are needed for comparison.",
+    "learning": "Benchmark results should include hardware, problem size, numerical accuracy and the reference implementation."
+  }
+}

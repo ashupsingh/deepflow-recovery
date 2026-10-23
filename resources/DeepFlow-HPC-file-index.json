@@ -1,0 +1,14 @@
+{
+  "branch": "main",
+  "commit": "268be20dd0d0f36d66b7fac17de5a8b21bfd078d",
+  "files": [
+    "Algorithm_Avengers_PPT.pptx",
+    "README.md",
+    "exp_njit.py",
+    "exp_njit_parallel.py",
+    "ray_code.py",
+    "reference.py",
+    "test_cuda.py",
+    "validate.py"
+  ]
+}
